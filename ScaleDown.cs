@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Microsoft.Data.SqlClient;
 
-namespace Hectagon.Function
+namespace Hectagon.DBFunction
 {
     public static class ScaleDown
     {
